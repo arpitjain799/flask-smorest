@@ -1,6 +1,14 @@
 Changelog
 ---------
 
+0.42.0 (unreleased)
+*******************
+
+Features:
+
+- Support multiple APIs in a single application via ``Api.__init__`` param
+  ``config_prefix``.
+
 0.41.0 (2023-03-30)
 *******************
 
